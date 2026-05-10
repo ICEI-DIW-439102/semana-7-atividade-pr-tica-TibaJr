@@ -5,12 +5,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Gabriel Moreira Bonifácio de Azevedo
+- Matricula:907460
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+<<  COLOQUE A IMAGEM AQUI >>(./img/print_console_log.png)
 
 
 
